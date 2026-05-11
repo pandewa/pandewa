@@ -1,6 +1,3 @@
-Berikut adalah draf `README.md` profesional yang dioptimalkan untuk profil GitHub Anda. Kode ini menggunakan ikon statis yang bersih dan tata letak yang terorganisir untuk menonjolkan keahlian serta proyek Anda.
-
-```markdown
 # Hi there, I'm Dewa 👋
 
 ### Software Engineer & Informatics Engineering Enthusiast
