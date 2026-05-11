@@ -1,16 +1,52 @@
-## Hi there 👋
+Berikut adalah draf `README.md` profesional yang dioptimalkan untuk profil GitHub Anda. Kode ini menggunakan ikon statis yang bersih dan tata letak yang terorganisir untuk menonjolkan keahlian serta proyek Anda.
 
-<!--
-**pandewa/pandewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+# Hi there, I'm Dewa 👋
 
-Here are some ideas to get you started:
+### Software Engineer & Informatics Engineering Enthusiast
+Passionate about building scalable web applications, exploring PC hardware, and managing digital communities. I enjoy bridging the gap between technical development and community engagement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=sqlite) |
+| **Frameworks/Web** | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+---
+
+### 🚀 Featured Project
+**Sistem Persebaran Sekolah (SMA/SMK/MA) di Provinsi Riau**
+*   Developing a mapping system to analyze and promote university admissions across the Riau region.
+*   Focusing on data visualization and geographic distribution.
+
+---
+
+### 📊 GitHub Stats
+![Dewa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizkialrdh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizkialrdh&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect with Me
+Let's collaborate or just have a chat about tech, gaming, or fitness!
+
+*   **LinkedIn:** [linkedin.com/in/pandewarizkialridho](https://www.linkedin.com/in/pandewarizkialridho)
+*   **Instagram:** [@rizkialrdh](https://www.instagram.com/rizkialrdh)
+*   **Discord:** `DWKSTORE Community`
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pandewarizkialridho">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rizkialrdh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+```
