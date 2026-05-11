@@ -15,10 +15,26 @@ Passionate about building scalable web applications, exploring PC hardware, and 
 
 ---
 
+### 📜 Certifications & Achievements
+
+#### 🌐 Networking & IT
+* [cite_start]**CCNAv7: Introduction to Networks** – *Cisco Networking Academy* [cite: 24, 26]
+    * [cite_start]Proficient in configuring switches, routers, and end devices for local and remote network access[cite: 29, 31].
+    * [cite_start]Skilled in creating IPv4 and IPv6 addressing schemes and implementing network security best practices[cite: 32, 34].
+    * [cite_start]Issued on July 2, 2022, via Islamic University of Riau[cite: 38, 44].
+
+#### 🔤 Language Proficiency
+* [cite_start]**TOEFL Prediction Test** – *English Domestic* [cite: 1, 9]
+    * [cite_start]**Total Score: 617** [cite: 12]
+    * Listening Comprehension: 65 | Structure & Written Expression: 61 | [cite_start]Reading Comprehension: 59[cite: 12].
+    * [cite_start]Test Date: December 13, 2025[cite: 11].
+
+---
+
 ### 🚀 Featured Project
 **Sistem Persebaran Sekolah (SMA/SMK/MA) di Provinsi Riau**
-*   Developing a mapping system to analyze and promote university admissions across the Riau region.
-*   Focusing on data visualization and geographic distribution.
+* Developing a mapping system to analyze and promote university admissions across the Riau region.
+* Focusing on data visualization and geographic distribution.
 
 ---
 
@@ -31,9 +47,8 @@ Passionate about building scalable web applications, exploring PC hardware, and 
 ### 🤝 Connect with Me
 Let's collaborate or just have a chat about tech, gaming, or fitness!
 
-*   **LinkedIn:** [linkedin.com/in/pandewarizkialridho](https://www.linkedin.com/in/pandewarizkialridho)
-*   **Instagram:** [@rizkialrdh](https://www.instagram.com/rizkialrdh)
-*   **Discord:** `DWKSTORE Community`
+* **LinkedIn:** [linkedin.com/in/pandewarizkialridho](https://www.linkedin.com/in/pandewarizkialridho)
+* **Instagram:** [@rizkialrdh](https://www.instagram.com/rizkialrdh)
 
 ---
 
@@ -45,5 +60,3 @@ Let's collaborate or just have a chat about tech, gaming, or fitness!
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-```
